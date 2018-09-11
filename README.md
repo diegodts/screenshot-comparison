@@ -11,3 +11,8 @@ Tool to take screenshots of pages and compare them with the previous version
 ### puppeteer
 
 `npm install puppeteer puppeteer-pool puppeteer-cluster`
+
+## Goal
+
+Make it usable via web browser.
+Please check the wireframe of the intended goal:
